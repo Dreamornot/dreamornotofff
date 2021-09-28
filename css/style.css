@@ -1,0 +1,61 @@
+h3{
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+h1{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: blue;
+}
+h2 {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h4 {
+    font-size: larger;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    font-size: larger;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightblue;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.profile-picture {
+    border-radius: 25px;
+    border-color: blue;
+    border-style:groove;
+    border-width: medium;
+}
+
+h3{
+    color:blue;
+}
+
+h3:hover{
+    color:darkblue;
+    cursor:'images/wtff.jpg';
+}
+a{
+    color:blue;
+}
+a:hover{
+    color:darkblue;
+    text-decoration:none;
+    cursor:wait;
+}
+.button{
+   background-color: lightblue;
+   font-size: x-large;
+}
+.button2{
+    background-color: lightblue;
+    font-size: x-small;
+}
